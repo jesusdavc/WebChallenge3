@@ -12,3 +12,8 @@
 .attribution{
     margin-top: 10px;
 }
+.card-center__container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

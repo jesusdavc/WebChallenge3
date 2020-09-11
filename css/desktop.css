@@ -1,0 +1,14 @@
+.header{
+    max-width: calc(50vw - 13px);;
+    margin-bottom: 6.5rem
+}
+.cards-main-container{
+    display: flex;
+    align-items: center;
+}
+.card{
+    max-width: 25vw;
+}
+.attribution{
+    margin-top: 10px;
+}
